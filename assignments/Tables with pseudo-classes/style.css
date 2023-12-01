@@ -1,0 +1,8 @@
+table {
+    background-color: green;
+    color: white;
+}
+
+.module:nth-child(4n) {
+    margin-right: 10px;
+}
