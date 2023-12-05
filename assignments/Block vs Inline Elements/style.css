@@ -1,0 +1,12 @@
+h1 {
+    display: inline;
+}
+
+p {
+    display: inline;
+}
+
+body {
+    background-color: aqua;
+    color: black;
+}
