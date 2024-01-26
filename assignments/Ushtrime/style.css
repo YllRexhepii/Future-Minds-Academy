@@ -1,27 +1,16 @@
-body {
+* {
+    margin: 0%;
     padding: 0%;
-    margin: 0%;
+}
+
+.ylli {
+    display: flex;
     background-color: red;
+    justify-content: space-between
 }
 
-.link {
-    display: flex;
-    padding: 20px;
-    justify-content: right;
-    flex-direction: column-reverse;
-    background-color: aqua;
-
-
-}
-
-.star {
-    display: flex;
-    margin: 0%;
-    gap: 20px;
-    padding: 14px;
-    text-decoration: none;
-    list-style: none;
-    background-color: blue;
-    color: white;
-    flex-direction: row;
+div img {
+    width: 50%;
+    height: 50%;
+    border-radius: 80%;
 }

@@ -1,0 +1,16 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    display: flex;
+    background-color: grey;
+    align-items: center;
+    width: 30%;
+    flex-direction: column;
+    height: 100%;
+
+
+
+}
