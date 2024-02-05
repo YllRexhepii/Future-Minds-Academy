@@ -36,6 +36,10 @@ aside {
     align-items: center;
 }
 
+.JustifyContent {
+    justify-content: center;
+}
+
 .border {
     border: 2px solid transparent;
     border-radius: 2px;
@@ -68,4 +72,12 @@ hr {
 
 .radius {
     border-radius: 5px;
+}
+
+#search {
+    background-color: transparent;
+    align-items: end;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
 }
