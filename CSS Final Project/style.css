@@ -14,9 +14,9 @@ body {
 aside {
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.772);
-    height: 100vh;
+    height: 130vh;
     width: 15%;
-    padding: 30px;
+    padding: 35px;
 }
 
 .flexDirection {
@@ -24,12 +24,12 @@ aside {
 }
 
 .gap {
-    gap: 15px;
+    gap: 20px;
 }
 
 .imgBorder {
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .alignItems {
