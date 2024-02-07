@@ -13,7 +13,8 @@ body {
 
 aside {
     background-blend-mode: color;
-    background-color: rgba(0, 0, 0, 0.772);
+    background-color: rgb(12, 12, 12);
+    justify-content: space-between;
     height: 130vh;
     width: 15%;
     padding: 35px;
@@ -21,6 +22,7 @@ aside {
 
 .flexDirection {
     flex-direction: column;
+    ;
 }
 
 .gap {
@@ -74,9 +76,10 @@ hr {
     border-radius: 5px;
 }
 
-#search {
+.search {
     background-color: transparent;
-    align-items: end;
+    justify-content: space-between;
+    align-items: center;
     border: none;
     outline: none;
     border-bottom: 1px solid black;
